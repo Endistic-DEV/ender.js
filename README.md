@@ -1,6 +1,8 @@
 # ender.js
 Hey there!
 This is the official documentation for ender.js.
+Please keep in mind that ender.js is in early alpha.
+Do not use in a production build. Thank you!
 
 ## Installation
 To get started, download the "ender" folder and drag it into your website folder.
