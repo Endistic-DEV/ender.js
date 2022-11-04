@@ -20,6 +20,7 @@ ender.js allows you to:
 
 ## Example
 Feel free to see our source website as an example!
+The source code for it is in the ./src/ folder.
 ```
 enderjs.endistic.repl.co
 ```
